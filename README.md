@@ -1,7 +1,8 @@
 
 # Berni Giphy 🖥️
 
-<iframe src="https://giphy.com/embed/l3q2KRkOVYvi8WfU4" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/jerseydemic-l3q2KRkOVYvi8WfU4">via GIPHY</a></p>
+![ctas develop](https://user-images.githubusercontent.com/110461673/217766319-dd37a679-ec63-4525-b956-3672b9a758ed.gif)
+
 
 I make a search Giphy with Giphy API using a fetch, map and diferent destructuring. I like to work in this project because I like gifs.
 
